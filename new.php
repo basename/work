@@ -12,5 +12,6 @@ class myclass{
     }
     public function afuncitn(){
         echo 'fdf';exit;
+        echo 'ddd';
     }
 }

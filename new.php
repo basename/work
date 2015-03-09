@@ -10,4 +10,7 @@ class myclass{
     public function __construct() {
         $obj_new = new com();
     }
+    public function afuncitn(){
+        echo 'fdf';
+    }
 }

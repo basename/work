@@ -11,6 +11,6 @@ class myclass{
         $obj_new = new com();
     }
     public function afuncitn(){
-        echo 'fdf';
+        echo 'fdf';exit;
     }
 }

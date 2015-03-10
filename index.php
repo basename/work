@@ -4,4 +4,3 @@ echo '222';
 echo '11111';exit;
 echo 'fdfdffd';
 echo '1111';
-echo '999999';

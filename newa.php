@@ -8,6 +8,7 @@
 class Cconetrlor{
     public function funcitona(){
         echo 'nihao wo shi ni de ho';
+        echo 'ddd';
     }
 }
 

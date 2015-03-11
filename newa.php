@@ -11,4 +11,3 @@ class Cconetrlor{
         echo 'ddd';
     }
 }
-

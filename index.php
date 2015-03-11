@@ -5,4 +5,4 @@ echo '11111';exit;
 echo 'fdfdffd';
 echo '1111';
 echo 'pppppp';
-echo 'ssss';
+echo 'sss   \\\\s';

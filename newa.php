@@ -11,3 +11,4 @@ class Cconetrlor{
         echo 'ddd';
     }
 }
+echo 'dddddfdfdf';
